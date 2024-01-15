@@ -64,9 +64,6 @@ body{
 
 .home{
     height: 100vh;
-    background: url('assets/back.png') no-repeat;
-    background-size: cover;
-    background-position: center;
     display: flex;
     align-items: center;
     padding: 0 10%;
